@@ -16,6 +16,8 @@ public class Main {
         Masha.addAuto(new Auto("Ferrari", "red"));
         Masha.addAuto(new Auto("Ford", "black"));
 
+        Masha.addAuto(new Auto("Chery", "Green"));
+
         service.update(Masha);
 
 
