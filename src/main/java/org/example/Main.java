@@ -28,6 +28,7 @@ public class Main {
         marina.addAuto(new Auto("Porshe", "metallic"));
         marina.addAuto(new Auto("Mercedes", "black"));
         marina.addAuto(new Auto("Rolls-Royce", "violet"));
+        marina.addAuto(new Auto("Жигуль", "белый"));
 
         service.update(marina);
 
